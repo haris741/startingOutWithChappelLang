@@ -1,0 +1,9 @@
+var myInt: int = -1000; // Signed ints
+var myUint: uint = 1234; // Unsigned ints
+var myReal: real = 9.876; // Floating point numbers
+var myImag: imag = 5.0i; // Imaginary numbers
+var myCplx: complex = 10 + 9i; // Complex numbers
+myCplx = myInt + myImag; // Another way to form complex numbers
+var myBool: bool = false; // Booleans
+var myStr: string = "Some string..."; // Strings
+var singleQuoteStr = 'Another string...'; // String literal with single quotes
